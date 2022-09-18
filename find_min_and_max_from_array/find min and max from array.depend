@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663165447 source:c:\cpp\find min and max from array\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
