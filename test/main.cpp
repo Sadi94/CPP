@@ -1,3 +1,5 @@
+//test
+
 #include <iostream>
 #include <stdio.h>
 
@@ -47,6 +49,7 @@ int main()
     struct Teacher{
     int empid[5];
     int salary[2];
+
     employee *s;
     }teacher;
 
