@@ -1,3 +1,5 @@
+// array summation
+// multiple array summation
 #include <iostream>
 
 using namespace std;
