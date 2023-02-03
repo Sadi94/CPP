@@ -1,0 +1,3 @@
+write a code to develop a 2D grid of integers. Each of the boxes in the grid contains an integer. you have to identify the cell whose sum of adjacent cells is maximum.Alternatively you can print another 2D grid that contains the sum of adjacent cell for each existent cell.Adjacent cells are explained in the later part of this question. you should take input from the user, an integer n. then construct a nxn 2D array/matrix. take input from the user about the different elements of the matrix. then print two integers i and j, which will be the next index of the cell whose sum of adjacent cell is maximum.
+adjacent cells:
+adjacent cells are those cells in a table that are connected to each other For example in the following images the blue cells are adjacent of the red cells
